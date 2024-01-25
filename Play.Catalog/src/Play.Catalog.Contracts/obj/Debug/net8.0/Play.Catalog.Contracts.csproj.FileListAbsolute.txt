@@ -1,0 +1,11 @@
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net8.0/Play.Catalog.Contracts.deps.json
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net8.0/Play.Catalog.Contracts.dll
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net8.0/Play.Catalog.Contracts.pdb
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.dll
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/refint/Play.Catalog.Contracts.dll
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/Play.Catalog.Contracts.pdb
+/home/ripeplantain/projects/c# microservice/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net8.0/ref/Play.Catalog.Contracts.dll

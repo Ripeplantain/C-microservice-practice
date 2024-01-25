@@ -1,0 +1,79 @@
+# Visual Studio files
+.vs/
+*.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.bak
+*.cache
+*.dll
+*.cache
+*.dbmdl
+*.log
+*.gpstate
+*.Publish.xml
+*.csproj.user
+*.publishproj
+*.pidb
+*.svclog
+*.vssscc
+*.vspscc
+*.resharper
+*.dotCover
+*.xml
+
+# Resharper folder
+_ReSharper.*
+
+# Rider generated files
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.paket/paket-files
+project.lock.json
+packages/
+*.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.psess
+
+# Debug
+*.exe
+*.pdb
+*.dll
+*.log
+*.vspscc
+*.vssscc
+._*
+.vspscc
+.vscode
+*.dotCover
+*.resharper
+*.resharper.user
+*/bin/*
+*/obj/*
+*.csproj.user
+*.cache
+*.suo
+*.user
+*.ncrunch*
+*.bak
+*.pssproj
+*.gpState
+*.gpUser
+*.vshost.exe
+*.vsmdi
+TestResult.xml
+*.loadtest
+*.tlog
+*.testsettings
